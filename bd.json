@@ -1,0 +1,13 @@
+{
+  "ids": {
+    "Producto": 5
+  },
+  "models": {
+    "Producto": {
+      "1": "{\"nomProducto\":\"Mesa 1\",\"precio\":1000,\"cantidad\":10,\"additionalProp1\":{},\"id\":1}",
+      "2": "{\"nomProducto\":\"Silla giratoria\",\"precio\":2100,\"cantidad\":5,\"additionalProp1\":{},\"id\":2}",
+      "3": "{\"nomProducto\":\"Refrigerador\",\"precio\":5000,\"cantidad\":3,\"id\":3}",
+      "4": "{\"nomProducto\":\"Pantalla de 50 pulgadas\",\"precio\":12000,\"cantidad\":2,\"id\":4}"
+    }
+  }
+}
